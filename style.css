@@ -1,6 +1,7 @@
 
 body {
-    background-image: url('background.JPG');
+    background-image: url('background.jpg');
+    background-color: purple;
     background-size:contain;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     margin: 10px;
